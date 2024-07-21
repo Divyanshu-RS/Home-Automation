@@ -13,3 +13,7 @@ The rapid growth of technologies influences us to use smartphones to remotely co
 ## Model Overview 
 <br>
 <img src="https://github.com/Divyanshu-RS/Home-Automation/blob/main/Home%20Automation%20Model%20Image.png">
+
+#
+
+*Link to <a href="https://drive.google.com/file/d/1Om0JGKuiz4RgOUKs1kQLVxCn2OKN9FFa/view?usp=drive_link"> Android app.</a>
